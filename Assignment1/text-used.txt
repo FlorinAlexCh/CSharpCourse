@@ -1,0 +1,4 @@
+Prod|UM|Cant|
+Mere|buc|3|
+Pere|buc|5|
+Zahar|kg|10|
