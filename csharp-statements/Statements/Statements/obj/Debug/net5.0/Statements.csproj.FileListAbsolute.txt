@@ -1,0 +1,15 @@
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.exe
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.deps.json
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.runtimeconfig.json
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.runtimeconfig.dev.json
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.dll
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\ref\Statements.dll
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\bin\Debug\net5.0\Statements.pdb
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.AssemblyInfoInputs.cache
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.AssemblyInfo.cs
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.csproj.CoreCompileInputs.cache
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.dll
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\ref\Statements.dll
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.pdb
+D:\Work\git\GitVisualStudio\csharp-statements\Statements\Statements\obj\Debug\net5.0\Statements.genruntimeconfig.cache
