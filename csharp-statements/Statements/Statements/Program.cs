@@ -6,26 +6,36 @@ namespace Statements
     {
         static void Main(string[] args)
         {
-            Random randomizer = new Random();
-            int i = randomizer.Next(0, 100);
+            int n = ReadNumber("N=");
 
-            switch (i % 2)
+            for (int i = 0;i <= n; i++)
             {
-                case 0:
-                   Console.WriteLine($"{i} is Even");
-                    break;
-
-                case 1:
-                    Console.WriteLine($"{i} is Odd");
-                    break;
-
-                default:
-                    Console.WriteLine("Valorea nu e corecta");
-                    break;
+                if (i % 2 != 0)
+                {
+                    continue;
+                }
+                Console.WriteLine(i);
+                if (i > 10)
+                {
+                    int shouldContinue = ReadNumber("Mai continuati? 0=Nu, 1=DA");
+                    if (shouldContinue == 0)
+                    {
+                        break;
+                    }
+                }
             }
+
+
 
         }
 
+        static int ReadNumber(string label)
+        {
+            Console.Write(label);
+            string value = Console.ReadLine();
+            int valueAsNumber = Convert.ToInt32(value);
+            return valueAsNumber;
+        }
         static void If_Simple()
         {
             Random randomizer = new Random();
@@ -41,7 +51,25 @@ namespace Statements
                 Console.WriteLine($"{i} is not even");
             }
         }
+        static void Switch()
+        {
+            Random randomizer = new Random();
+            int i = randomizer.Next(0, 100);
+            switch (i % 2)
+            {
+                case 0:
+                    Console.WriteLine($"{i} is Even");
+                    break;
 
+                case 1:
+                    Console.WriteLine($"{i} is Odd");
+                    break;
+
+                default:
+                    Console.WriteLine("Valorea nu e corecta");
+                    break;
+            }
+        }
         static void IfExerciseWithComplexMenu()
         {
             Console.WriteLine("Please select an option: ");
